@@ -1,0 +1,146 @@
+[
+  {
+    "asin": "B001",
+    "title": "Apple iPhone 14 Pro Max 256GB!!!",
+    "brand": "Apple",
+    "stars": "4.8",
+    "reviewsCount": "1523",
+    "description": "Latest iPhone with amazing camera",
+    "price": {"value": "$1299", "currency": "$"}
+  },
+  {
+    "asin": "B002",
+    "title": "Samsung Galaxy S23 Ultra@@@",
+    "brand": "Samsung",
+    "stars": "4.6",
+    "reviewsCount": "1320",
+    "description": "Powerful Android phone",
+    "price": {"value": "1199 USD", "currency": null}
+  },
+  {
+    "asin": "B003",
+    "title": "OnePlus 11 5G ###",
+    "brand": "OnePlus",
+    "stars": "4.4",
+    "reviewsCount": "980",
+    "description": "",
+    "price": {"value": "699", "currency": "$"}
+  },
+  {
+    "asin": "B004",
+    "title": "Xiaomi Redmi Note 12 Pro",
+    "brand": null,
+    "stars": "6.2",
+    "reviewsCount": "850",
+    "description": "Budget phone with great features",
+    "price": {"value": "$299", "currency": "$"}
+  },
+  {
+    "asin": "B005",
+    "title": "Realme Narzo 60",
+    "brand": "Realme",
+    "stars": "-1",
+    "reviewsCount": "700",
+    "description": "Affordable smartphone",
+    "price": {"value": "$199", "currency": "$"}
+  },
+  {
+    "asin": "B006",
+    "title": "Google Pixel 7",
+    "brand": "Google",
+    "stars": "4.5",
+    "reviewsCount": "1100",
+    "description": "Great camera quality",
+    "price": {"value": "$599", "currency": "$"}
+  },
+  {
+    "asin": "B007",
+    "title": "Nothing Phone (1)",
+    "brand": "Nothing",
+    "stars": "4.2",
+    "reviewsCount": null,
+    "description": "Unique transparent design",
+    "price": {"value": "$399", "currency": "$"}
+  },
+  {
+    "asin": "B008",
+    "title": "iPhone SE (2022)",
+    "brand": "APPLE",
+    "stars": "4.3",
+    "reviewsCount": "500",
+    "description": "Compact iPhone",
+    "price": {"value": "$429", "currency": "$"}
+  },
+  {
+    "asin": "B009",
+    "title": "Samsung Galaxy A54",
+    "brand": " samsung ",
+    "stars": "4.1",
+    "reviewsCount": "620",
+    "description": "Mid-range device",
+    "price": {"value": "449$", "currency": "$"}
+  },
+  {
+    "asin": "B010",
+    "title": "Moto G73 !!!",
+    "brand": "Motorola",
+    "stars": "3.9",
+    "reviewsCount": "300",
+    "description": "Decent performance",
+    "price": {"value": "$249", "currency": "$"}
+  },
+  {
+    "asin": "B011",
+    "title": "Vivo V27 Pro",
+    "brand": "Vivo",
+    "stars": "4.0",
+    "reviewsCount": "450",
+    "description": "Stylish design",
+    "price": {"value": "₹35000", "currency": "₹"}
+  },
+  {
+    "asin": "B012",
+    "title": "Oppo Reno 8",
+    "brand": "Oppo",
+    "stars": "NaN",
+    "reviewsCount": "600",
+    "description": "Fast charging phone",
+    "price": {"value": "$499", "currency": "$"}
+  },
+  {
+    "asin": "B013",
+    "title": "Sony Xperia 5 IV",
+    "brand": "Sony",
+    "stars": "4.2",
+    "reviewsCount": "350",
+    "description": "Premium compact phone",
+    "price": {"value": "999$", "currency": "$"}
+  },
+  {
+    "asin": "B014",
+    "title": "Nokia G21",
+    "brand": "Nokia",
+    "stars": "3.8",
+    "reviewsCount": "200",
+    "description": "Reliable build",
+    "price": {"value": "$199", "currency": "$"}
+  },
+  {
+    "asin": "B015",
+    "title": "Asus ROG Phone 6",
+    "brand": "ASUS",
+    "stars": "4.7",
+    "reviewsCount": "780",
+    "description": "Gaming beast",
+    "price": {"value": "$999", "currency": "$"}
+  },
+  {
+    "asin": "B015",
+    "title": "Asus ROG Phone 6 Duplicate",
+    "brand": "ASUS",
+    "stars": "4.7",
+    "reviewsCount": "780",
+    "description": "Duplicate entry",
+    "price": {"value": "$999", "currency": "$"}
+  }
+]
